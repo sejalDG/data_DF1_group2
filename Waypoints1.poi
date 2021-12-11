@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.0"
+ creator="ExifTool 12.34"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>Waypoints</name>
+	<wpt lat="52.38524237167948" lon="-1.5518712883226782">
+		<name>Ex-wife home address (CV4 7EP)</name>
+	</wpt>
+	<wpt lat="52.46921838148156" lon="-1.9746815290876083">
+		<name>Ex-wife work address I (B67 5EU)</name>
+	</wpt>
+	<wpt lat="52.45340346249081" lon="-1.927832245990572">
+		<name>Ex-wife work address II (B15 2TT)</name>
+	</wpt>
+	<wpt lat="52.47999323546348" lon="-1.9603317478359412">
+		<name>Ex-wife work address 3 (B17 8JR)</name>
+	</wpt>
+</gpx>
